@@ -3,13 +3,13 @@ VERSION:3.0
 PRODID:-//Apple Inc.//macOS 26.5//EN
 N:Mavroudis;Yannis;;;
 FN:Yannis Mavroudis
-ORG:Pharos Maritime Software;
+ORG:Pharos Maritime Intelligence;
 TITLE:Founder
-EMAIL;type=INTERNET;type=WORK;type=pref:founder.pharos@icloud.com
+EMAIL;type=INTERNET;type=WORK;type=pref:founder@pharos-maritime.com
 EMAIL;type=INTERNET;type=HOME:ioannis.mavroudis@icloud.com
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+306943482698
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/MavroudisYannis
-item1.URL;type=pref:https://pharos-demo.vercel.app/
+item1.URL;type=pref:https://pharos-maritime.com
 item1.X-ABLabel:_$!<HomePage>!$_
 BDAY:1982-12-07
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4QC+RXhpZgAATU0AKgAAAAgABQEaAAUAAAABAAAASgEb
